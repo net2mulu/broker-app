@@ -21,7 +21,7 @@ export default function Home() {
         {/* MENU BAR */}
         <nav className="navbar navbar-expand-lg">
           <div className="container">
-            <a className="navbar-brand" href="index.html">
+            <a className="navbar-brand" href="#">
               <img src="./logo.png" className="logo" />
               SEMERE KIDANE
             </a>
@@ -57,7 +57,7 @@ export default function Home() {
                     Everything you need to know about the assets to rent
                   </h1>
                   <a
-                    href="contact.html"
+                    href="#"
                     className="custom-btn btn-bg btn mt-3"
                     data-aos="fade-up"
                     data-aos-delay={100}
@@ -150,7 +150,7 @@ export default function Home() {
                     />
                     <div className="project-info">
                       <h3>
-                        <a href="project-detail.html">
+                        <a href="#">
                           <span>Commercial Shops</span>
                         </a>
                       </h3>
@@ -164,7 +164,7 @@ export default function Home() {
                     />
                     <div className="project-info">
                       <h3>
-                        <a href="project-detail.html">
+                        <a href="#">
                           <span>Guest houses</span>
                         </a>
                       </h3>
@@ -178,7 +178,7 @@ export default function Home() {
                     />
                     <div className="project-info">
                       <h3>
-                        <a href="project-detail.html">
+                        <a href="#">
                           <span>Appartments</span>
                         </a>
                       </h3>
@@ -206,7 +206,7 @@ export default function Home() {
                     />
                     <div className="project-info">
                       <h3>
-                        <a href="project-detail.html">
+                        <a href="#">
                           <span>Vilas</span>
                         </a>
                       </h3>
